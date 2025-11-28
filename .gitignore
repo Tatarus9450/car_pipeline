@@ -1,2 +1,9 @@
-/.env
-/service_account.json
+# ไม่ต้อง track ไฟล์ลับ/ไฟล์ชั่วคราว
+.env
+service_account.json
+*.pyc
+__pycache__/
+.venv/
+env/
+venv/
+.DS_Store
