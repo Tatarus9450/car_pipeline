@@ -55,7 +55,7 @@
 - `publish.py` – ส่งตาราง production ไป Google Sheets
 - `run_pipeline.py` – รันครบ ingest → transform → publish
 - `docker-compose.yml` – คอนฟิก Postgres
-- `.env.example` – ตัวอย่างไฟล์ตั้งค่า
+- `.env.example` – ตัวอย่างไฟล์ตั้งค่า.
 
 ## แก้ปัญหาเบื้องต้น
 - Docker ไม่รัน: เปิด Docker Desktop แล้วสั่ง `docker compose up -d`
